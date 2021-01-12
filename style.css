@@ -1,0 +1,30 @@
+
+.noboni-slide{
+    background-color:  #fceae8;
+    border-radius: 1em;
+    
+}
+.naboni-categories img{
+    width: 100px;
+}
+.naboni-categories{
+    border-radius: 15px !important;
+}
+.noboni-card{
+    border: 0;
+    border-radius: 20px;  
+}
+.noboni-card-footer{
+    border: 0;
+    background-color: white;
+    padding-bottom: 15px;
+}
+.noboni-card-footer button{
+    border: 0;
+    background-image: linear-gradient( #FF589B 0%, #FF136F 100%);
+}
+.Subscribe{
+    background-color:#fceae8;
+    height: 300px;
+    border-radius: 1em;
+}
